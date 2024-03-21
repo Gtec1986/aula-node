@@ -1,0 +1,12 @@
+.container-fluid{
+  display: flex;
+  justify-content: flex-start;
+  background: black;
+
+}
+
+.nav-link{color: aliceblue;}
+
+.navbar-brand{color: aliceblue;}
+
+
